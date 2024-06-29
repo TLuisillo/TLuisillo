@@ -51,7 +51,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-![Windows][(https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,arch)](https://skillicons.dev)
+[![My Skills][(https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,arch)](https://skillicons.dev)
 
 <br>
 
