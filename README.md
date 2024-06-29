@@ -47,7 +47,6 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 - ![Pentesting Tools](https://img.shields.io/badge/Pentesting%20Tools-Various-green?style=flat-square)
 - ![TCP/UDP Protocols](https://img.shields.io/badge/TCP%2FUDP%20Protocols-Expert-blue?style=flat-square)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
@@ -57,8 +56,13 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+- ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+- ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=Sublime%20Text&logoColor=white)
+- ![Brackets](https://img.shields.io/badge/Brackets-7C4DFF?style=flat-square&logo=Brackets&logoColor=white)
+- ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white)
+
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
