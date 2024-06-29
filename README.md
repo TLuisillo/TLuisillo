@@ -67,7 +67,19 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,debian.ubuntu,window,mac,arch)](https://skillicons.dev)
+### Operating Systems
+
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> </picture>
+
+- [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) (Para representar Linux en general)
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)
+- ![Parrot OS](https://img.shields.io/badge/Parrot_OS-309E46?style=flat-square&logo=Parrot%20Security%20OS&logoColor=white)
+- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+- ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
+- ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+
 
 <br>
 
