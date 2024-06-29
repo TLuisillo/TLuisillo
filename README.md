@@ -26,7 +26,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,shell,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,java,html,css,javascript)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
