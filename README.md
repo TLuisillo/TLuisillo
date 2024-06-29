@@ -1,4 +1,4 @@
-## Habilidades
+## Me
 
 - **Auditoría de Seguridad 🔒**: Pentesting Tools - Kali / Parrot Indentificacion y explotacion vulnerabilidades - Generación de informes.
 - **Sistemas Operativos 💻**: Conocimientos avanzados en Windows y Linux (Administracion de Servidores).
