@@ -28,14 +28,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,java,html,css,javascript)](https://skillicons.dev)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
@@ -53,31 +45,38 @@
  ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
 
 
-
-
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
 ### Software & Tools
 
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- ![Pentesting Tools](https://img.shields.io/badge/Pentesting%20Tools-Various-green?style=flat-square)
-- ![TCP/UDP Protocols](https://img.shields.io/badge/TCP%2FUDP%20Protocols-Expert-blue?style=flat-square)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-- ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- ![MySQL Server](https://img.shields.io/badge/MySQL%20Server-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+ ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ ![Pentesting Tools](https://img.shields.io/badge/Pentesting%20Tools-Various-green?style=flat-square)
+ ![TCP/UDP Protocols](https://img.shields.io/badge/TCP%2FUDP%20Protocols-Expert-blue?style=flat-square)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+ ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ ![MySQL Server](https://img.shields.io/badge/MySQL%20Server-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
-- ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-- ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=Sublime%20Text&logoColor=white)
-- ![Brackets](https://img.shields.io/badge/Brackets-7C4DFF?style=flat-square&logo=Brackets&logoColor=white)
-- ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white)
+ ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+ ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+ ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=Sublime%20Text&logoColor=white)
+ ![Brackets](https://img.shields.io/badge/Brackets-7C4DFF?style=flat-square&logo=Brackets&logoColor=white)
+ ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white)
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 <br>
 
