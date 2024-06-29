@@ -28,10 +28,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,java,html,css,javascript)](https://skillicons.dev)
 
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
-
-### Operating Systems
 
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> </picture>
 
@@ -44,10 +43,9 @@
  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
  ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
 
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-
-### Software & Tools
 
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -59,6 +57,7 @@
  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  ![MySQL Server](https://img.shields.io/badge/MySQL%20Server-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
@@ -68,6 +67,8 @@
  ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=Sublime%20Text&logoColor=white)
  ![Brackets](https://img.shields.io/badge/Brackets-7C4DFF?style=flat-square&logo=Brackets&logoColor=white)
  ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white)
+
+ <br>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
