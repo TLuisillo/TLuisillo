@@ -16,9 +16,9 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior Pentester ` 
+- :school: I am a `Junior Pentester & Systems Engineer Student` 
 - :boom: You can visit [MY WEBSITE](https://tluisillo-o.gitbook.io/blog/) for some cybersecurity knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Luis Lumbreras&amp;color=EA4335&amp;style=flat-square)](mailto:mtzlumbrerasl@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Luis%20Lumbreras&color=EA4335&style=flat-square)](mailto:mtzlumbrerasl@gmail.com)
 
 <br>
 
