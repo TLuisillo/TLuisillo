@@ -18,8 +18,7 @@
 
 - :school: I am a `Junior Pentester ` 
 - :boom: You can visit [MY WEBSITE](https://tluisillo-o.gitbook.io/blog/) for some cybersecurity knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=&amp;color=EA4335&amp;style=flat-square)](mailto:mtzlumbrerasl@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Luis Lumbreras&amp;color=EA4335&amp;style=flat-square)](mailto:mtzlumbrerasl@gmail.com)
 
 <br>
 
