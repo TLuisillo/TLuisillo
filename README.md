@@ -32,7 +32,6 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> </picture>
 
  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)
